@@ -11,7 +11,8 @@ For each PR:
 - screenshots included? (Y/N)
 
 ## 3) Self-Review Evidence
-GitHub does not allow you to formally Approve or Request changes on your own PR, so all reviews on this checkpoint are comment-based. Explain:
+GitHub does not allow you to formally Approve or Request changes on your own PR, so all reviews on this checkpoint are comment-based. 
+Explain:
 - at least 2 self-review comments per PR (what was said and why)
 - which PR had a critical self-review comment that required a follow-up commit, and how you addressed it
 - how you ensured quality before merging (CI status checks, manual testing, etc.)
