@@ -1,0 +1,20 @@
+# General
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+build/
+
+# Secrets and Credentials
+.env
+.env.*
+
+# Testing
+coverage/
+
+# Logs and Debugging
+*.log
+npm-debug.log*
